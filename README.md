@@ -26,7 +26,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/toDoManager-FramerAnimated.git
+git clone https://github.com/ir-shaad0812/-planner-next-framer.git  
 cd toDoManager-FramerAnimated
 ```
 
