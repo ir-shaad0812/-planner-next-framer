@@ -1,5 +1,5 @@
 # To-Do Manager with Framer Motion Animation
-![To-Do Manager App](https://i.imgur.com/example-image.png)
+![To-Do Manager App]
 
 ## ✨ Features
 
